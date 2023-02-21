@@ -1,1 +1,1 @@
-print "Hello world, Good Morning to all"
+echo "Hello world, Good Morning to all"
